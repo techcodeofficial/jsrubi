@@ -1,0 +1,21 @@
+{
+  "name": "jsrubi",
+  "description": "rubika bot api",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "node-rsa": "^1.1.1",
+    "sync-request": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechCode",
+  "license": "ISC",
+  "version": "0.0.1"
+}
